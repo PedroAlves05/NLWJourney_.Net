@@ -1,0 +1,36 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.deps.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.AssemblyInfo.cs
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\refint\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll

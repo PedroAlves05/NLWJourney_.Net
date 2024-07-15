@@ -1,0 +1,57 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey..4308BAD8.Up2Date
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.deps.json
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Application.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.AssemblyReference.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfo.cs
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey..4308BAD8.Up2Date
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Application.deps.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Application.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Application.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.AssemblyReference.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey.Application.AssemblyInfo.cs
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey.Application.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey..4308BAD8.Up2Date
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey.Application.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\refint\Journey.Application.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\Journey.Application.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Application\obj\Debug\net8.0\ref\Journey.Application.dll

@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Estudos_A_Parte\\NLW_CS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\estudos_a_parte\\nlw_cs\\src\\journey.application\\usecases\\trips\\getall\\getalltripsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\trips\\getall\\getalltripsusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|c:\\estudos_a_parte\\nlw_cs\\src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7491156F-1F24-41A3-A3C0-F4D75B730FEF}|src\\Journey.Infrastructure\\Journey.Infrastructure.csproj|solutionrelative:src\\journey.infrastructure\\journeydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|c:\\estudos_a_parte\\nlw_cs\\src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06EE223-358C-4E1A-BAD1-7063E7177816}|src\\Journey.Api\\Journey.Api.csproj|solutionrelative:src\\journey.api\\controllers\\tripscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\estudos_a_parte\\nlw_cs\\src\\journey.application\\usecases\\activities\\delete\\deleteactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\activities\\delete\\deleteactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|c:\\estudos_a_parte\\nlw_cs\\src\\journey.application\\usecases\\activities\\complete\\completeactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E6F5DBC0-00F8-4649-995C-7FE6F0D655FC}|src\\Journey.Application\\Journey.Application.csproj|solutionrelative:src\\journey.application\\usecases\\activities\\complete\\completeactivityfortripusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetAllTripsUseCase.cs",
+              "DocumentMoniker": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "ToolTip": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Trips\\GetAll\\GetAllTripsUseCase.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAArwBIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T22:24:02.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JourneyDbContext.cs",
+              "DocumentMoniker": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ToolTip": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "RelativeToolTip": "src\\Journey.Infrastructure\\JourneyDbContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T22:20:14.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DeleteActivityForTripUseCase.cs",
+              "DocumentMoniker": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
+              "ToolTip": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Activities\\Delete\\DeleteActivityForTripUseCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T18:06:51.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompleteActivityForTripUseCase.cs",
+              "DocumentMoniker": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "ToolTip": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "RelativeToolTip": "src\\Journey.Application\\UseCases\\Activities\\Complete\\CompleteActivityForTripUseCase.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T17:49:19.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TripsController.cs",
+              "DocumentMoniker": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeDocumentMoniker": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ToolTip": "C:\\Estudos_A_Parte\\NLW_CS\\src\\Journey.Api\\Controllers\\TripsController.cs",
+              "RelativeToolTip": "src\\Journey.Api\\Controllers\\TripsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T16:18:00.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

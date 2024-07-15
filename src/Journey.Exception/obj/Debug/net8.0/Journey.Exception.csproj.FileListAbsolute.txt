@@ -1,0 +1,39 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessages.resources
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessages.resources
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.deps.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.ResourceErrorMessages.resources
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.GenerateResource.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.AssemblyInfo.cs
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\refint\Journey.Exception.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Exception\obj\Debug\net8.0\ref\Journey.Exception.dll

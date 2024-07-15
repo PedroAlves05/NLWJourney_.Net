@@ -1,0 +1,33 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.deps.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.AssemblyInfo.cs
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\refint\Journey.Communication.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Communication\obj\Debug\net8.0\ref\Journey.Communication.dll

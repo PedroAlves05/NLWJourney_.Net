@@ -1,0 +1,210 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Application.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Communication.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Exception.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Application.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.Journey.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Journey.Api.props
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Journey.Api.props
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Journey.Api.props
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\scopedcss\bundle\Journey.Api.styles.css
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey..6F7808BB.Up2Date
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\refint\Journey.Api.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\ref\Journey.Api.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\appsettings.json
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.exe
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.deps.json
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.runtimeconfig.json
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Api.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Application.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Application.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Api\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.AssemblyReference.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfo.cs
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.Journey.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Journey.Api.props
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Journey.Api.props
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Journey.Api.props
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\scopedcss\bundle\Journey.Api.styles.css
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey..6F7808BB.Up2Date
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\refint\Journey.Api.dll
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.pdb
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\Journey.Api.genruntimeconfig.cache
+C:\Estudos_A_Parte\Journey\src\Journey.Api\obj\Debug\net8.0\ref\Journey.Api.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\appsettings.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Api.exe
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Api.deps.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Api.runtimeconfig.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Api.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Api.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\FluentValidation.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Microsoft.Data.Sqlite.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.core.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Application.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Communication.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Exception.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Infrastructure.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Application.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Communication.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Exception.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\bin\Debug\net8.0\Journey.Infrastructure.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.AssemblyReference.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfoInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.AssemblyInfo.cs
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.csproj.CoreCompileInputs.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.Journey.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Journey.Api.props
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Journey.Api.props
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Journey.Api.props
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\scopedcss\bundle\Journey.Api.styles.css
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey..6F7808BB.Up2Date
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\refint\Journey.Api.dll
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.pdb
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\Journey.Api.genruntimeconfig.cache
+C:\Estudos_A_Parte\NLW_CS\src\Journey.Api\obj\Debug\net8.0\ref\Journey.Api.dll
